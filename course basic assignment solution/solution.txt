@@ -1,0 +1,29 @@
+Course Basic
+Assignment Solutions
+
+Ans1. HTML stands for hypertext markup language. It is not a programming language, but used
+to create the skeleton of a web page. HTML provides a wide variety of tags in order to add text,
+images, links, videos etc to a web page. HTML along with CSS and JavaScript can create a full
+fledged scalable web application.
+
+Ans2. CSS stands for cascading styling sheets. This language is used to beautify the web
+pages. This offers styling features like color, font style, position of an element, etc. There are
+three ways to add CSS in the html document.
+1. Creating a seperate file of .css extension and then adding it using style tag
+2. Inline CSS, used in add styles within the html tags
+3. Using style tag
+
+Ans3. HTML and CSS together can build a static website,it was not possible to create dynamic
+websites In order to create dynamic websites javascript came into pictures.The name javascript
+is given because, at that time java was so popular, and it is a scripting language. That's why it is
+given the name javascript. We can insert javascript code using the script tag of html. Also, we
+can create separate files having extension dot js that.can be embedded in our code using script
+tag.
+
+Ans4. Javascript first came into picture in 1995. it’is the most widely used scripting language at
+that time to create dynamic websites. Earlier its name was Moch then modified to livescript and
+then finally modified to Javascript. Because at that time Java was very popular. Also in 2002
+another scripting language came its name was Ecmascript 4. But it is completely abondened
+because of the conflicting features of Ecmascript. Now the javascript is the most widely used
+programming language as well as scripting language in frontend to create functional websites
+as well as in backend
